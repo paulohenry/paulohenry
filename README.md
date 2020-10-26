@@ -12,7 +12,7 @@
 
 <br />
 
-
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenry&layout=compact&theme=algolia" alt="PauloHenry's github stats" />
 
 ### Connect with me: 
 [<img align="left" alt="haryel gillet ramalho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
