@@ -17,7 +17,8 @@
 ### Connect with me: 
 [<img align="left" alt="haryel gillet ramalho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="haryel gillet ramalho | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
-[<img align="left" alt="haryel gillet ramalho | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][google]
+[<img align="left" alt="haryel gillet ramalho | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="haryel gillet ramalho | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -64,6 +65,7 @@
   </ul>
 </div>
  
-[linkedin]: https://www.https://www.linkedin.com/in/pajrh/
-[github]: https://github.com/paulohenry
-[google]: paulo.junior.engenheiro@gmail.com
+[linkedin]:https://www.https://www.linkedin.com/in/pajrh/
+[github]:https://github.com/paulohenry
+[instagram]:https://www.instagram.com/pajrh_/
+[facebook]:https://www.facebook.com/paulo.junior.52/
