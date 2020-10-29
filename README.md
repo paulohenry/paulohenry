@@ -1,7 +1,7 @@
 <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
-### Hi there `I'm Paulo Silva,` welcome to my profile 👋
+### Hi there `I'm Paulo Júnior,` welcome to my profile 👋
 
 - :rocket: I’m currently working Node JS, React JS and Ionic 5.
     - Check my [LINKEDIN](https://www.linkedin.com/in/pajrh/) for more infos about and get in touch. 
