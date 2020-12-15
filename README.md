@@ -6,7 +6,7 @@
 - :rocket: I’m currently working Node JS, React JS and Ionic 5.
     - Check my [LINKEDIN](https://www.linkedin.com/in/pajrh/) for more infos about and get in touch. 
 - :mortar_board: I'm graduated in mechatronic engineering.
-- :books: Also studing java language with spring boot, spring security and more.
+- :books: I'm ever studying new frameworks and also how improve my abilities and knowledge.
 
 - Lover of coding :exploding_head:
 
