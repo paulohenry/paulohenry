@@ -3,7 +3,7 @@
 
 ### Hi there `I'm Paulo Júnior,` welcome to my profile 👋
 
-- :rocket: I’m currently working Node JS, React JS, React-native and Ionic 5.
+- :rocket: I’m currently working Node JS, React JS.
     - Check my [LINKEDIN](https://www.linkedin.com/in/pajrh/) for more infos about and get in touch. 
 - :mortar_board: I'm graduated in mechatronic engineering.
 - :books: I'm ever studying new frameworks and also how improve my abilities and knowledge.
